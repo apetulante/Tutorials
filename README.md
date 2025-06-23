@@ -4,6 +4,9 @@ This repository is a series of in-depth tutorials for various machine learning a
 
 All materials were created by me, unless otherwise specifically stated.
 
+The in-depth "textbook" tutorials (meant primarily to be read, and which aim to understand teach a concept very in-depth) can be viewed here as well:
+[apetulante.github.io](apetulante.github.io)
+
 ## Organization
 -------
 The "Architectures" folder contains Jupyter notebooks that go over specific architectures, as well as key concepts that underlay them. Including:
