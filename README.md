@@ -12,3 +12,13 @@ The "Architectures" folder contains Jupyter notebooks that go over specific arch
 
 The "Concepts" folder contains Jupyter notebooks that cover specific concepts that relate to ML. More of these tutorials focus on concepts that underlay ideas like intepretability, visualization,
 and understanding more nuanced and specific aspects of modern ML techniques.
+- Feature Visualization in CNN's
+- Sparse Coding
+
+The "Training" folder contains notebooks that pertain to technqiues for training and fine-tuning models.
+- Fine-tuning a small LLM with PEFT
+- Reinforcement learning techniques (including GRPO)
+
+The "Inferencing" folder contains notebook about inference-time technqiues, including:
+- Tuning by proxy
+- KV and prompt caching
